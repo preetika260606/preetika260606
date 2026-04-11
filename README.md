@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Preetika 👋
 
-<!--
-**preetika260606/preetika260606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about building real-world applications and continuously improving as a developer.
 
-Here are some ideas to get you started:
+🚀 BTech Student | MERN Stack Developer  
+💡 Currently building: Notes Chat App (real-time project)  
+📚 Learning: System Design
+🎯 Goal: Crack SDE Internship  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- Frontend: React, HTML, CSS, JavaScript  
+- Backend: Node.js, Express  
+- Database: MongoDB  
+- Programming: C++ (DSA)  
+
+---
+
+## 📌 Projects
+- 📝 Notes Chat App – Real-time notes + chat application (in progress)
+
+---
+
+## 📈 Currently Working On
+- Improving full-stack development skills  
+- Practicing DSA daily  
+- Learning system design basics  
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/preetika260606
