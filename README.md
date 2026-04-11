@@ -32,3 +32,4 @@ Passionate about building real-world applications and continuously improving as 
 ## 📫 Connect with me
 - GitHub: https://github.com/preetika260606
 - Linkedin: in/preetika-gupta-a8613b314
+- Twitter: @Preetika8188
