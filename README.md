@@ -13,12 +13,12 @@ Passionate about building real-world applications and continuously improving as 
 - Frontend: React, HTML, CSS, JavaScript  
 - Backend: Node.js, Express  
 - Database: MongoDB  
-- Programming: C++ (DSA)  
+- Programming: C++ (DSA) on daily bases 
 
 ---
 
 ## 📌 Projects
-- 📝 Notes Chat App – Real-time notes + chat application (in progress)>>>>
+- 📝 Notes Chat App – Real-time notes + chat application (in progress)
 
 ---
 
