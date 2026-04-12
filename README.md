@@ -18,7 +18,7 @@ Passionate about building real-world applications and continuously improving as 
 ---
 
 ## 📌 Projects
-- 📝 Notes Chat App – Real-time notes + chat application (in progress)
+- 📝 Notes Chat App – Real-time notes + chat application (in progress)>>>>
 
 ---
 
