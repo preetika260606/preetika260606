@@ -4,7 +4,7 @@ Passionate about building real-world applications and continuously improving as 
 
 🚀 BTech Student | MERN Stack Developer  
 💡 Currently building: Notes Chat App (real-time project)  
-📚 Learning: System Design
+
 
 ---
 
