@@ -1,34 +1,68 @@
-# Hi, I'm Preetika 👋
+# Hi, I'm Preetika Gupta 👋
 
-Passionate about building real-world applications and continuously improving as a developer.
+🎓 BTech Student | MERN Stack Developer | DSA Enthusiast
 
-🚀 BTech Student | MERN Stack Developer  
-💡 Currently building: Notes Chat App (real-time project)  
+Passionate about building real-world applications, solving problems through code, and continuously improving my software development skills.
 
+---
+
+## 🚀 About Me
+
+- 💻 Currently building a Real-Time Notes Chat App
+- 🤖 Working on an AI Digital Twin Backend using Node.js and MongoDB
+- 📚 Practicing Data Structures & Algorithms daily using C++
+- 🌱 Learning System Design and Backend Architecture
+- 🎯 Goal: Become a Software Development Engineer (SDE)
 
 ---
 
 ## 🛠️ Tech Stack
-- Frontend: React, HTML, CSS, JavaScript  
-- Backend: Node.js, Express  
-- Database: MongoDB  
-- Programming: C++ (DSA) on daily bases 
+
+### Frontend
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- Mongoose
+
+### Programming Languages
+- C++
+- JavaScript
 
 ---
 
 ## 📌 Projects
-- 📝 Notes Chat App – Real-time notes + chat application (in progress)
+
+### 📝 Notes Chat App
+Real-time notes and chat application built with the MERN stack.
+
+### 🤖 AI Digital Twin Backend
+A context-aware chatbot backend that remembers user information and preferences using MongoDB.
 
 ---
 
 ## 📈 Currently Working On
-- Improving full-stack development skills  
-- Practicing DSA daily  
-- Learning system design basics  
+
+- Full-Stack Development
+- Data Structures & Algorithms
+- System Design Fundamentals
+- Backend Scalability Concepts
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect With Me
+
 - GitHub: https://github.com/preetika260606
-- Linkedin: https://www.linkedin.com/in/preetika-gupta-a8613b314/
-- Twitter: https://x.com/Preetika8188
+- LinkedIn: https://www.linkedin.com/in/preetika-gupta-a8613b314/
+- X (Twitter): https://x.com/Preetika8188
+
+---
+
+⭐ Always learning, building, and improving one project at a time.
