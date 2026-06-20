@@ -59,7 +59,6 @@ A context-aware chatbot backend that remembers user information and preferences 
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/preetika260606
 - LinkedIn: https://www.linkedin.com/in/preetika-gupta-a8613b314/
 - X (Twitter): https://x.com/Preetika8188
 
