@@ -126,15 +126,6 @@ My focus is on understanding the underlying concepts, analyzing time and space c
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preetika260606&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetika260606&layout=compact&hide_border=true" height="170"/>
-</p>
-
----
-
 ## Connect With Me
 
 **GitHub:** [github.com/preetika260606](https://github.com/preetika260606)
